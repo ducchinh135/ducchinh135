@@ -6,7 +6,7 @@
 </em></p>
 
 [![Twitter: _tdc_20_](https://img.shields.io/twitter/follow/_tdc_20_?style=social)](https://x.com/_tdc_20_)
-[![Twitter: walker__135](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram)](https://www.instagram.com/walker__135/)
+[![Twitter: walker__135](https://img.shields.io/Instagram-E4405F?style=social&logo=instagram)](https://www.instagram.com/walker__135/)
 [![GitHub ducchinh135](https://img.shields.io/github/followers/ducchinh135?label=follow&style=social)](https://github.com/ducchinh135)
 
 
