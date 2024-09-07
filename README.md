@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h2> Hi, I'm Chinhs! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmsybGZzcWY5cm1wbjl0MzdxZnVzOWRkOHp1aHExYmJuejI0YmYyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp" width="230">
+<img align='right' src="https://media0.giphy.com/media/l4FGyM79ojtSwTqdG/giphy.webp?cid=ecf05e47f9j0ghn4p499gfon1bogc16e8gsuhskmxzqqj53n&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="230">
 <p><em>Software Developer at <a href="https://ezpics.vn">Ezpics Co.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
