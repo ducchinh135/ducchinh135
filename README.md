@@ -6,8 +6,7 @@
 </em></p>
 
 [![Twitter: _tdc_20_](https://img.shields.io/twitter/follow/_tdc_20_?style=social)](https://x.com/_tdc_20_)
-[![Twitter: walker__135](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/walker__135/)
-[![GitHub ducchinh135](https://img.shields.io/github/followers/ducchinh135?label=follow&style=social)](https://github.com/ducchinh135)
+[![GitHub ducchinh135](https://img.shields.io/github/watchers/ducchinh135?label=follow&style=social)](https://github.com/ducchinh135)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
