@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h2> Hi, I'm Chinhs! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmsybGZzcWY5cm1wbjl0MzdxZnVzOWRkOHp1aHExYmJuejI0YmYyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp" width="230">
 <p><em>Software Developer at <a href="https://ezpics.vn">Ezpics Co.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
@@ -12,12 +12,12 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const chinhs = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, React Native, HTML, CSS, Java],
   tools: [React, Next, Redux, Node, Tailwind, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
